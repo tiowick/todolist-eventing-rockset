@@ -1,4 +1,4 @@
-package br.com.jefersonsena.todo.list;
+package br.com.jefersonsena.todolist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
